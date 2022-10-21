@@ -12,7 +12,7 @@
 
 ## 界面展示
 <div align="left">
-     <img  src="img/interface.png">
+     <img  src="img/interface_cn.png">
 </div>
 
 ## 构建环境
