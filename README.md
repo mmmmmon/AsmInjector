@@ -3,8 +3,12 @@
     <img  src="logo.png" width="50%" syt height="50%">
 </p>
 <h1>Asm Injector</h1>
-[简体中文](README-zh.md) | [English](README.md) 
+    
+[简体中文](README-zh.md) or [English](README.md)  
+    
 </div>
+
+
 
 ## interface
 <div align="left">
